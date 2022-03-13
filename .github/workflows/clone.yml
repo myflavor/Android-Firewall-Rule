@@ -28,6 +28,8 @@ jobs:
         python clone.py
     - name: Commit data
       run: |
+        git config --global user.email "action@github.com"
+        git config --global user.name "Github Action"
         git add LibChecker-Rules.json
         git commit -m "Clone rule"
         git push
