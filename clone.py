@@ -8,7 +8,7 @@ data = {
     "services": []
 }
 for component in components:
-    path = component + "-libs/"
+    path = "LibChecker-Rules/"+component + "-libs/"
     files = os.listdir(path)
     for file in files:
         if os.path.isfile(path + file):
