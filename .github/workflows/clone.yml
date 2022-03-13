@@ -26,6 +26,7 @@ jobs:
     - name: Run clone script
       run: |
         python clone.py
+        rm LibChecker-Rules -rf
     - name: Commit data
       run: |
         git config --global user.email "action@github.com"
