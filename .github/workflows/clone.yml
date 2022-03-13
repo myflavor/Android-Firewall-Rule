@@ -25,6 +25,7 @@ jobs:
         git clone https://github.com/zhaobozhen/LibChecker-Rules
     - name: Run clone script
       run: |
+        rm LibChecker-Rules.json -f
         python clone.py
         rm LibChecker-Rules -rf
     - name: Commit data
