@@ -34,8 +34,6 @@ for component in components:
                                 rule = rule + package + ",\n"
                                 if debug:
                                     print(package, "|", name, "|", keyword)
-                                else:
-                                    print(package)
                                 break
                 except:
                     print(end="")
