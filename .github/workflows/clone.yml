@@ -22,12 +22,16 @@ jobs:
         python-version: "3.10"
     - name: Clone respository
       run: |
+        cd scripts
         git clone https://github.com/zhaobozhen/LibChecker-Rules
-    - name: Run clone script
+    - name: Covert and generate
       run: |
+        cd scripts
         python generate.py
         python clone.py
         rm LibChecker-Rules -rf
+        mv rule.txt ../
+        mv LibChecker-Rules.json ../
     - name: Commit data
       run: |
         git config --global user.email "action@github.com"
