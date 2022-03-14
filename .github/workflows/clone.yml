@@ -25,12 +25,14 @@ jobs:
         git clone https://github.com/zhaobozhen/LibChecker-Rules
     - name: Run clone script
       run: |
+        python generate.py
         python clone.py
         rm LibChecker-Rules -rf
     - name: Commit data
       run: |
         git config --global user.email "action@github.com"
         git config --global user.name "Github Action"
+        git add rule.txt
         git add LibChecker-Rules.json
         git commit -m "Clone rule"
-        git push
+        git push -f
