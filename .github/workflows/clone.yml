@@ -26,7 +26,6 @@ jobs:
         git clone https://github.com/zhaobozhen/LibChecker-Rules
     - name: Covert and generate
       run: |
-        cp manual_rule.txt scripts/
         cd scripts
         python generate.py
         python clone.py
@@ -36,6 +35,7 @@ jobs:
         mv update_time.txt ../
     - name: Commit data
       run: |
+        cat manual_rule.txt >> rule.txt
         git config --global user.email "action@github.com"
         git config --global user.name "Github Action"
         git add .
