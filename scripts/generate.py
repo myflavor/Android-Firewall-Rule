@@ -1,5 +1,6 @@
 import json
 import os
+import time
 
 github_repo = "https://github.com/zhaobozhen/LibChecker-Rules"
 
@@ -39,4 +40,7 @@ for component in components:
                     print(end="")
 with open("rule.txt", 'w') as f:
     f.write(rule)
-    f.close()
+
+update_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())
+with open("update_time.txt", 'w') as f:
+    f.write(update_time)
