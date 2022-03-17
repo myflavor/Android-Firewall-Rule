@@ -1,0 +1,7 @@
+io.rong.,
+cn.jpush.,
+cn.jiguang.,
+com.umeng.,
+com.getui.,
+com.qq.e.,
+com.igexin.,
