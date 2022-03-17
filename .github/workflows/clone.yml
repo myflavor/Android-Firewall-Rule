@@ -30,7 +30,8 @@ jobs:
         python generate.py
         python clone.py
         rm LibChecker-Rules -rf
-        mv * ../
+        mv rule.txt ../
+        mv update_time.txt ../
     - name: Commit data
       run: |
         git config --global user.email "action@github.com"
