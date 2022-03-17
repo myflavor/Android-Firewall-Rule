@@ -26,6 +26,7 @@ jobs:
         git clone https://github.com/zhaobozhen/LibChecker-Rules
     - name: Covert and generate
       run: |
+        cp manual_rule.txt scripts/
         cd scripts
         python generate.py
         python clone.py
