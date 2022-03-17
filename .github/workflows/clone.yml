@@ -31,6 +31,7 @@ jobs:
         python clone.py
         rm LibChecker-Rules -rf
         mv rule.txt ../
+        mv LibChecker-Rules.json ../
         mv update_time.txt ../
     - name: Commit data
       run: |
