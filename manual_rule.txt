@@ -1,9 +1,6 @@
 #极光推送
 cn.jpush.,
 cn.jiguang.,
-#个推
-com.getui.,
-com.igexin.,
 #穿山甲广告
 com.ss.android.socialbase.,
 com.ss.android.downloadlib.,
@@ -45,6 +42,7 @@ com.tencent.rfix.,
 #腾讯浏览服务(X5内核)
 com.tencent.smtt.,
 #个推
+com.getui.,
 com.igexin.,
 #极光推送
 .jpush.,
