@@ -1,6 +1,8 @@
 # Android-Firewall-Rule
 应用净化APP云端规则仓库
 
+APP下载地址 https://coolstars.lanzoum.com/izIUO01ffq0d
+
 Github Action 每天0点同步LibChecker规则并生成通用规则
 
   scripts(Github Action 同步和生成规则脚本)
