@@ -1,1 +1,2 @@
-com.xiaomi
+sync,
+nfc,
