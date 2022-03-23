@@ -35,7 +35,7 @@ jobs:
         mv update_time.txt ../
     - name: Commit data
       run: |
-        cat manual_rule.txt | grep -v '^#' >> rule.txt
+        cat manual_rule.txt | grep -v '^#' | grep -v '^$'  >> rule.txt
         git config --global user.email "action@github.com"
         git config --global user.name "Github Action"
         git add .
