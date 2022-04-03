@@ -3,6 +3,7 @@
 com.qq.e.,
 com.tencent.qqmini.ad.,
 com.tencent.klevin.ads.,
+com.tencentmusic.ad.,
 #穿山甲广告
 com.ss.android.socialbase.,
 com.ss.android.downloadlib.,
