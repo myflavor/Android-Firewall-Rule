@@ -22,6 +22,7 @@ com.kwad.,
 com.bilibili.ad.,
 com.bilibili.adcommon.,
 com.bilibili.game.,
+com.bilibili.biligame.track.,
 #华为广告
 com.huawei.openalliance.ad.,
 com.huawei.agconnect.,
