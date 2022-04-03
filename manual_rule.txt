@@ -19,6 +19,7 @@ com.kuaishou.commercial.downloader.,
 com.gifshow.ad.,
 com.kwad.,
 #哔哩哔哩广告
+com.bilibili.ad.,
 com.bilibili.adcommon.,
 com.bilibili.game.,
 #华为广告
