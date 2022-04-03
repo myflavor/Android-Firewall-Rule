@@ -50,6 +50,8 @@ com.unity3d.services.ads.,
 com.qamob.hads.,
 #Mopub广告
 .mopub.mobileads.,
+#爱奇艺
+org.iqiyi.video.ad.,
 
 ##分析
 #DataFinder分析
