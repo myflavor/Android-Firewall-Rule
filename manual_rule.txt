@@ -54,8 +54,6 @@ com.qamob.hads.,
 .mopub.mobileads.,
 #爱奇艺
 org.iqiyi.video.ad.,
-#微信
-com.tencent.mm.plugin.appbrand.ad.,
 
 ##分析
 #DataFinder分析
