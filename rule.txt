@@ -249,3 +249,4 @@ com.tencent.rfix.,
 com.huawei.updatesdk.,
 com.market.sdk.,
 com.tencent.smtt.,
+mtopsdk.xstate.XStateService
