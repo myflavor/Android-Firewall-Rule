@@ -118,9 +118,9 @@ com.market.sdk.,
 com.tencent.smtt.,
 
 #阿里系
-mtopsdk.xstate.XStateService
-com.alipay.android.launcher.service.
-com.taobao.orange.
+mtopsdk.xstate.XStateService,
+com.alipay.android.launcher.service.,
+com.taobao.orange.,
 
 #拼多多
-.almighty.ipc.ipcinvoker.
+.almighty.ipc.ipcinvoker.,
