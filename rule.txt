@@ -251,3 +251,4 @@ com.market.sdk.,
 com.tencent.smtt.,
 mtopsdk.xstate.XStateService
 com.alipay.android.launcher.service.
+.almighty.ipc.ipcinvoker.
