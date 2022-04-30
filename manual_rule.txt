@@ -131,6 +131,8 @@ com.uc.,
 com.alibaba.dingtalk.accs.connection.AccsBridgeService,
 org.android.agoo.,
 anetwork.channel.aidl.NetworkService,
+com.alipay.mobile.common.fgbg.FgBgMonitorService,
+com.alipay.dexaop.power.RuntimePowerService,
 
 #拼多多
 .almighty.ipc.ipcinvoker.,
