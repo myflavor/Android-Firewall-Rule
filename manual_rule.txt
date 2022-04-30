@@ -72,6 +72,7 @@ com.tencent.bugly.,
 #极光推送
 .jpush.,
 cn.jiguang.,
+jpush,
 #阿里移动推送
 com.alibaba.sdk.android.push.,
 com.taobao.accs.,
