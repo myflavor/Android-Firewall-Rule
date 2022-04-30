@@ -85,6 +85,7 @@ com.tencent.tpns.,
 #个推
 com.getui.,
 com.igexin.,
+.getui,
 #百度云推送
 com.baidu.android.pushservice.,
 #融云推送
