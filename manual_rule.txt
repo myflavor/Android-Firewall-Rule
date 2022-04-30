@@ -127,6 +127,7 @@ com.taobao.android.tschedule.TScheduleStatusService,
 com.taobao.calendar.,
 com.taobao.android.uc.,
 com.taobao.uc.,
+com.uc.,
 #拼多多
 .almighty.ipc.ipcinvoker.,
 com.xunmeng.basiccomponent.,
