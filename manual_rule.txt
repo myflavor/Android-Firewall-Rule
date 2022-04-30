@@ -124,3 +124,4 @@ com.taobao.orange.,
 
 #拼多多
 .almighty.ipc.ipcinvoker.,
+com.xunmeng.basiccomponent.titan.service.ServiceNative,
