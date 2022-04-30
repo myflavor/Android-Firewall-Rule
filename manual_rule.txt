@@ -125,3 +125,6 @@ com.taobao.orange.,
 #拼多多
 .almighty.ipc.ipcinvoker.,
 com.xunmeng.basiccomponent.,
+
+#美团
+com.meituan.android.downloadmanager.MultiDownloadService,
