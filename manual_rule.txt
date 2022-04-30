@@ -129,6 +129,7 @@ com.taobao.android.uc.,
 com.taobao.uc.,
 com.uc.,
 com.alibaba.dingtalk.accs.connection.AccsBridgeService,
+org.android.agoo.,
 
 #拼多多
 .almighty.ipc.ipcinvoker.,
