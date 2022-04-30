@@ -125,7 +125,8 @@ com.alipay.android.launcher.service.,
 com.taobao.orange.,
 com.taobao.android.tschedule.TScheduleStatusService,
 com.taobao.calendar.,
-
+com.taobao.android.uc.,
+com.taobao.uc.,
 #拼多多
 .almighty.ipc.ipcinvoker.,
 com.xunmeng.basiccomponent.,
