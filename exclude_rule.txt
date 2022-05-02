@@ -1,2 +1,3 @@
 sync,
 nfc,
+com.uc.quark.,
