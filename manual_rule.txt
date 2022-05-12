@@ -18,7 +18,7 @@ com.bytedance.push.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
 #抖音
-com.bytedance.,
+#com.bytedance.,
 com.ss.android.newmedia.,
 #Supersonic游戏广告
 .supersonicads.,
