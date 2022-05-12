@@ -20,6 +20,7 @@ com.yxcorp.gifshow.map.,
 #抖音
 #com.bytedance.,
 com.bytedance.bdp.,
+com.bytedance.apm6..,
 com.ss.android.newmedia.,
 com.ss.android.message.,
 com.tt.miniapphost.,
