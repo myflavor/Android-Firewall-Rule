@@ -12,6 +12,7 @@ com.bytedance.embedapplog.,
 com.bytedance.pangle.,
 com.bytedance.sdk.openadsdk.,
 com.bytedance.tea.crash.,
+com.bytedance.mira.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
 #Supersonic游戏广告
