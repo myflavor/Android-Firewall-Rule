@@ -96,8 +96,8 @@ com.baidu.android.pushservice.,
 #融云推送
 io.rong.push.,
 #小米推送
-.xiaomi.push.,
-.mipush.sdk.,
+#.xiaomi.push.,
+#.mipush.sdk.,
 #魅族推送
 .meizu.cloud.pushsdk.,
 #VIVO推送
