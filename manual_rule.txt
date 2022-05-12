@@ -15,9 +15,10 @@ com.bytedance.tea.crash.,
 com.bytedance.mira.,
 com.bytedance.common.,
 com.bytedance.push.,
-com.bytedance.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
+#抖音
+com.bytedance.,
 #Supersonic游戏广告
 .supersonicads.,
 #快手广告
@@ -135,9 +136,6 @@ com.uc.,
 com.alibaba.dingtalk.accs.connection.AccsBridgeService,
 org.android.agoo.,
 anetwork.channel.aidl.NetworkService,
-com.alipay.mobile.common.fgbg.FgBgMonitorService,
-com.alipay.dexaop.power.RuntimePowerService,
-com.alipay.mobile.nebulacore.,
 com.alipay.mobile.common.logging.process.,
 
 #拼多多
