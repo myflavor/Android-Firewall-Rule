@@ -15,6 +15,7 @@ com.bytedance.tea.crash.,
 com.bytedance.mira.,
 com.bytedance.common.,
 com.bytedance.push.,
+com.bytedance.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
 #Supersonic游戏广告
