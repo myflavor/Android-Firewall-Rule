@@ -24,6 +24,7 @@ com.bytedance.apm6..,
 com.ss.android.newmedia.,
 com.ss.android.message.,
 com.tt.miniapphost.,
+com.minigame.miniapphost.,
 #Supersonic游戏广告
 .supersonicads.,
 #快手广告
