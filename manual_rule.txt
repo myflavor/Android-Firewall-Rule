@@ -20,6 +20,7 @@ com.yxcorp.gifshow.map.,
 #抖音
 #com.bytedance.,
 com.ss.android.newmedia.,
+com.ss.android.message.,
 #Supersonic游戏广告
 .supersonicads.,
 #快手广告
