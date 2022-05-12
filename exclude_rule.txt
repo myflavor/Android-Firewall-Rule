@@ -1,3 +1,4 @@
 sync,
 nfc,
 com.uc.quark.,
+com.bytedance.org.chromium.,
