@@ -8,6 +8,8 @@ com.tencent.qqmusiclite.activity.SplashAdActivity,
 #穿山甲广告
 com.ss.android.socialbase.,
 com.ss.android.downloadlib.,
+com.ss.android.newmedia.,
+com.ss.android.message.,
 com.bytedance.embedapplog.,
 com.bytedance.pangle.,
 com.bytedance.sdk.openadsdk.,
@@ -17,14 +19,6 @@ com.bytedance.common.,
 com.bytedance.push.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
-#抖音
-#com.bytedance.,
-#com.bytedance.bdp.,
-#com.bytedance.apm6..,
-com.ss.android.newmedia.,
-com.ss.android.message.,
-#com.tt.miniapphost.,
-#com.minigame.miniapphost.,
 #Supersonic游戏广告
 .supersonicads.,
 #快手广告
