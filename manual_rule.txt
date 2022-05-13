@@ -156,6 +156,7 @@ com.alipay.dexaop.,
 com.alipay.android.phone.mobilecommon.dynamicrelease.,
 com.alipay.mobile.artvc.utils.,
 com.alipay.android.launcher.service.,
+com.alipay.mobile.healthcommon.stepcounter.,
 
 #拼多多
 .almighty.ipc.ipcinvoker.,
