@@ -124,23 +124,3 @@ com.market.sdk.,
 #腾讯浏览服务(X5内核)
 com.tencent.smtt.,
 
-#阿里系
-com.taobao.orange.,
-com.taobao.android.tschedule.TScheduleStatusService,
-com.taobao.calendar.,
-com.alibaba.dingtalk.accs.connection.AccsBridgeService,
-org.android.agoo.,
-
-#支付宝
-com.alipay.mobile.common.logging.process.,
-com.alipay.mobile.aompdevice.,
-com.alipay.mobile.logmonitor.,
-com.alipay.mobile.common.fgbg.,
-com.alipay.android.launcher.service.,
-
-#拼多多
-.almighty.ipc.ipcinvoker.,
-com.xunmeng.basiccomponent.,
-
-#美团
-com.meituan.android.downloadmanager.MultiDownloadService,
