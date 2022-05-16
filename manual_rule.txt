@@ -125,7 +125,6 @@ com.market.sdk.,
 com.tencent.smtt.,
 
 #阿里系
-mtopsdk.xstate.XStateService,
 com.taobao.orange.,
 com.taobao.android.tschedule.TScheduleStatusService,
 com.taobao.calendar.,
