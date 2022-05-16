@@ -131,7 +131,6 @@ com.taobao.android.tschedule.TScheduleStatusService,
 com.taobao.calendar.,
 com.alibaba.dingtalk.accs.connection.AccsBridgeService,
 org.android.agoo.,
-anetwork.channel.aidl.NetworkService,
 
 #支付宝
 com.alipay.mobile.common.logging.process.,
