@@ -28,12 +28,6 @@ jobs:
     - name: Covert and generate
       run: |
         cd scripts
-        python generate.py
-        python clone.py
-        rm LibChecker-Rules -rf
-        #mv rule.txt ../
-        mv LibChecker-Rules.json ../
-        mv update_time.txt ../
     - name: Commit data
       run: |
         cat manual_rule.txt | grep -v '^#' | grep -v '^$'  >> rule.txt
