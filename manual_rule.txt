@@ -96,19 +96,6 @@ com.igexin.,
 com.baidu.android.pushservice.,
 #融云推送
 io.rong.push.,
-#小米推送
-#.xiaomi.push.,
-#.mipush.sdk.,
-#魅族推送
-.meizu.cloud.pushsdk.,
-#VIVO推送
-com.vivo.push.sdk.,
-#欢太推送
-.heytap.msp.push.,
-.heytap.mcssdk.,
-.coloros.mcssdk.,
-#华为推送
-.huawei.hms.support.api.push.,
 
 ##热更新
 #腾讯Tinker热更新
