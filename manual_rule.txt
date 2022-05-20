@@ -8,15 +8,7 @@ com.tencent.qqmusiclite.activity.SplashAdActivity,
 #穿山甲广告
 com.ss.android.socialbase.,
 com.ss.android.downloadlib.,
-com.ss.android.newmedia.,
-com.ss.android.message.,
-com.bytedance.embedapplog.,
-com.bytedance.pangle.,
-com.bytedance.sdk.openadsdk.,
-com.bytedance.tea.crash.,
 com.bytedance.mira.,
-com.bytedance.common.,
-com.bytedance.push.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
 #Supersonic游戏广告
@@ -28,8 +20,6 @@ com.kwad.,
 #哔哩哔哩广告
 com.bilibili.ad.,
 com.bilibili.adcommon.,
-com.bilibili.game.,
-com.bilibili.biligame.track.,
 #华为广告
 com.huawei.openalliance.ad.,
 com.huawei.agconnect.,
@@ -78,11 +68,6 @@ com.tencent.bugly.,
 .jpush.,
 cn.jiguang.,
 jpush,
-#阿里移动推送
-com.alibaba.sdk.android.push.,
-com.taobao.accs.,
-com.taobao.agoo.,
-org.agoo.accs.,
 #友盟推送
 com.umeng.message.,
 #腾讯移动推送
