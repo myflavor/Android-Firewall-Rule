@@ -30,6 +30,7 @@ jobs:
         cd scripts
     - name: Commit data
       run: |
+        rm rule.txt
         cat manual_rule.txt | grep -v '^#' | grep -v '^$'  >> rule.txt
         git config --global user.email "action@github.com"
         git config --global user.name "Github Action"
