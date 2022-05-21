@@ -8,7 +8,6 @@ com.tencent.qqmusiclite.activity.SplashAdActivity,
 #穿山甲广告
 com.ss.android.socialbase.,
 com.ss.android.downloadlib.,
-com.bytedance.mira.,
 com.yxcorp.gifshow.ad.,
 com.yxcorp.gifshow.map.,
 #Supersonic游戏广告
@@ -22,7 +21,6 @@ com.bilibili.ad.,
 com.bilibili.adcommon.,
 #华为广告
 com.huawei.openalliance.ad.,
-com.huawei.agconnect.,
 #京东广告
 com.jd.ad.,
 #百度移动应用推广
@@ -58,8 +56,6 @@ com.bytedance.applog.,
 com.sensorsdata.analytics.,
 #阿里分析
 com.alibaba.analytics.,
-#腾讯移动分析
-com.tencent.mid.api.MidProvider.,
 #腾讯Bugly分析
 com.tencent.bugly.,
 
