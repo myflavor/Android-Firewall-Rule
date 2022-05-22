@@ -29,6 +29,11 @@ jobs:
       run: |
         cd scripts
     - name: Commit data
+        python generate.py
+        python clone.py
+        rm LibChecker-Rules -rf
+        mv LibChecker-Rules.json ../
+        mv update_time.txt ../
       run: |
         rm rule.txt
         cat manual_rule.txt | grep -v '^#' | grep -v '^$'  >> rule.txt
