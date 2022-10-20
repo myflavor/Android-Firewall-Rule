@@ -16,4 +16,4 @@ Github Action 每天0点同步LibChecker规则并生成通用规则
   LibChecker-Rules.json(LibChecker组件信息)
   
   
-  同步已关闭
+  同步已关闭，不再维护
